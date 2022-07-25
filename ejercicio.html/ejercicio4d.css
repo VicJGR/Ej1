@@ -1,0 +1,30 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.azul{
+    width: 500px;
+    height: 350px;
+    background-color: aqua;
+    position: relative;
+    border-radius: 5%;
+    margin: auto;
+}
+
+.blanco{
+    width: 250px;
+    height: 350px;
+    background-color: white;
+    border-radius: 5% 0% 0% 5%;
+    position: absolute;
+
+
+}
+
+.texto{
+    text-align: center;
+    position: absolute;
+    bottom: 30px;
+    font-size: xxx-large;
+    z-index: 50;
+}

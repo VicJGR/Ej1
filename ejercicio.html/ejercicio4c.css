@@ -1,0 +1,61 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.caja{
+    height: 350px;
+    width: 50%;
+    background-color: brown;
+    position: relative;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.texto{
+    justify-content: center;
+    color: white;
+    font-size:1.5cm;
+    display: grid;
+    position: relative;
+    bottom: -62px;
+}
+
+.circulo1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid brown;
+    position: absolute;
+    background-color: lightgoldenrodyellow;
+    top: -55px;
+    left: -55px;
+}
+.circulo2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid brown;
+    position: absolute;
+    background-color: lightgoldenrodyellow;
+    bottom: -55px;
+    left: -55px;
+}
+.circulo3{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid brown;
+    position: absolute;
+    background-color: lightgoldenrodyellow;
+    top: -55px;
+    right: -55px;
+}
+.circulo4{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid brown;
+    position: absolute;
+    background-color: lightgoldenrodyellow;
+    bottom: -55px;
+    right: -55px;
+}

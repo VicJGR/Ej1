@@ -1,0 +1,33 @@
+body {
+    padding: 50px;
+    background-color: beige;
+}
+
+h1 {
+    color: brown;
+}
+h1.fnt-red {
+    color: red;
+    }
+    
+    .fnt-blue {
+    color: blue;
+    }
+    
+    #nombre_alumno {
+        color: red;
+        text-decoration: underline;
+    }
+.titulo{
+    color: rgb(60, 60, 176);
+    font-size: 30px;
+    font-style: italic;
+}   
+.texto{
+    color: navy;
+    font-size: 15px;
+}
+.destacado{
+    font-style: italic;
+    font-weight: bold;
+}

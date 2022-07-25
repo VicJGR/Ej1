@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    
+}
+
+
+.arriba{
+    height: 40px;
+    background-color: blue;
+    position: fixed;
+    width: 100%;
+
+}
+
+p{
+    position: relative;
+    left: 500px;
+    bottom: 6px;
+}
+    
+.abajo{
+    height: 40px;
+    background-color: red;
+    position: absolute;
+    width: 100%;
+    margin-bottom: 0px;
+    }
